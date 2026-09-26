@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-opentreeoflife",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Open Tree of Life MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f67747931683b033b14ff2f3f24894e9763026fd6cee1affb5d4d8e2363fbb62",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-eb12e3c86cb9b93d824cd86d274fd9f3c3d066999d0f6739f7e0cb0394308b88",
+    "sourceCommit": "4d51421bd010ad9a322c2245b70b401604912eff"
   }
 }

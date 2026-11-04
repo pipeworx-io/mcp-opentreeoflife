@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-opentreeoflife",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Open Tree of Life MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "opentreeoflife",
     "gatewaySlug": "opentreeoflife",
-    "sourceHash": "v1-a03c1c89c31be08b927911f9735d766ca3d3acc312b1da13a52deced783aaa45",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-300903d79ec24fe4c56653adb596638471ed83f030657ddc3785fcacb6e8acfe",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
